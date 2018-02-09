@@ -1,2 +1,2 @@
 # hello-world
-this is for interacting for others
+this is my first repository
